@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "67c73533a5343001f53a4ba6"
+  },
+  "impacto": "Avances en el mundo electrónico",
+  "trayectoria": "Electrónica y Equipos de Seguridad",
+  "categoria": "Startup",
+  "estado": true,
+  "createdAt": {
+    "$date": "2025-03-04T17:15:31.327Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T17:15:31.327Z"
+  }
+}]
